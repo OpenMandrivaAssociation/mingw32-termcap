@@ -13,7 +13,7 @@
 
 Name:           mingw32-termcap
 Version:        1.3.1
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        MinGW terminal feature database
 
 License:        GPLv2+
