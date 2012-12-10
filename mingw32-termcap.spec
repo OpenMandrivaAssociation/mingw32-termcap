@@ -94,3 +94,19 @@ rm -rf $RPM_BUILD_ROOT
 # Note that we want the info files in this package because
 # there is no equivalent native Fedora package.
 %{_mingw32_infodir}/*
+
+
+%changelog
+* Fri Dec 10 2010 Oden Eriksson <oeriksson@mandriva.com> 1.3.1-3mdv2011.0
++ Revision: 620359
+- the mass rebuild of 2010.0 packages
+
+* Mon Sep 14 2009 Thierry Vignaud <tv@mandriva.org> 1.3.1-2mdv2010.0
++ Revision: 439970
+- rebuild
+
+* Fri Feb 06 2009 Jérôme Soyer <saispo@mandriva.org> 1.3.1-1mdv2009.1
++ Revision: 338110
+- import mingw32-termcap
+
+
